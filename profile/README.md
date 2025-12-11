@@ -23,6 +23,7 @@ Think of it as **infrastructure-as-code for AI agents**.
 A **Formation** is a complete AI agent system defined in AFS (or YAML):
 
 ```yaml
+# formation.afs
 schema: "1.0.0"
 id: my-formation
 description: Customer support system
