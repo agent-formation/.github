@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/249095986?v=1" width="112" height="112">
+</p>
+
 # Agent Formation
 **Open standard for declarative AI agent systems.**
 
@@ -84,9 +88,9 @@ Building a runtime? We'd love to list it. Open an issue or PR.
 
 Agent Formation is developed in the open. We welcome contributions to schemas, specs, tooling, and documentation.
 
-- Read the [Contributing Guide](https://github.com/agent-formation/spec/blob/main/CONTRIBUTING.md)
-- Review the [Governance Model](https://github.com/agent-formation/spec/blob/main/GOVERNANCE.md)
-- Join the discussion in [Issues](https://github.com/agent-formation/spec/issues)
+- Read the [Contributing Guide](https://github.com/agent-formation/afs-spec/blob/main/CONTRIBUTING.md)
+- Review the [Governance Model](https://github.com/agent-formation/afs-spec/blob/main/GOVERNANCE.md)
+- Join the discussion in [Issues](https://github.com/agent-formation/afs-spec/issues)
 
 ---
 
