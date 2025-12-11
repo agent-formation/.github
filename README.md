@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/249095986?v=1" width="112" height="112">
-</p>
-
 # Agent Formation
 **Open standard for declarative AI agent systems.**
 
@@ -57,9 +53,9 @@ Agents, tools, memory, knowledge, workflows - all declared, all portable.
 | Repository | Description |
 |------------|-------------|
 | [**spec**](https://github.com/agent-formation/spec) | Core schemas, specs, and templates |
-| *validator* | Schema validation library (coming soon) |
-| *linter* | CLI linting tool (coming soon) |
+| *afs* | Validator, linter, and formatter tool (coming soon) |
 | *vscode* | VS Code extension (coming soon) |
+| *assets* | Logos, icons, badges, and brand guidelines (coming soon) |
 
 ---
 
