@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/249095986?v=1" width="112" height="112">
+</p>
+
 # Agent Formation
 **Open standard for declarative AI agent systems.**
 
@@ -18,11 +22,12 @@ Think of it as **infrastructure-as-code for AI agents**.
 
 ---
 
-## The Formation Standard
+## The Formation Schema
 
 A **Formation** is a complete AI agent system defined in AFS (or YAML):
 
 ```yaml
+# formation.afs
 schema: "1.0.0"
 id: my-formation
 description: Customer support system
@@ -43,7 +48,7 @@ mcp:
 
 Agents, tools, memory, knowledge, secrets - all declared, all portable.
 
-> **File Extensions:** Use `.afs` (Agent Formation Standard) or `.yaml` - both are fully supported.
+> **File Extensions:** Use `.afs` (Agent Formation Schema) or `.yaml` - both are fully supported.
 
 ---
 
