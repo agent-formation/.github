@@ -51,7 +51,7 @@ Agents, tools, memory, knowledge, secrets - all declared, all portable.
 
 | Repository | Description |
 |------------|-------------|
-| [**formation**](https://github.com/agent-formation/spec) | Core schemas, specs, and templates |
+| [**spec**](https://github.com/agent-formation/spec) | Core schemas, specs, and templates |
 | *validator* | Schema validation library (coming soon) |
 | *linter* | CLI linting tool (coming soon) |
 | *vscode* | VS Code extension (coming soon) |
