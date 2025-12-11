@@ -46,7 +46,7 @@ mcp:
     command: npx @company/kb-server
 ```
 
-Agents, tools, memory, knowledge, secrets - all declared, all portable.
+Agents, tools, memory, knowledge, workflows - all declared, all portable.
 
 > **File Extensions:** Use `.afs` (Agent Formation Schema) or `.yaml` - both are fully supported.
 
