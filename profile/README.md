@@ -18,7 +18,7 @@ Think of it as **infrastructure-as-code for AI agents**.
 
 ---
 
-## The Formation Standard
+## The Formation Schema
 
 A **Formation** is a complete AI agent system defined in AFS (or YAML):
 
@@ -44,7 +44,7 @@ mcp:
 
 Agents, tools, memory, knowledge, secrets - all declared, all portable.
 
-> **File Extensions:** Use `.afs` (Agent Formation Standard) or `.yaml` - both are fully supported.
+> **File Extensions:** Use `.afs` (Agent Formation Schema) or `.yaml` - both are fully supported.
 
 ---
 
