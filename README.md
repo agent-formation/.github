@@ -63,8 +63,8 @@ Agents, tools, memory, knowledge, workflows - all declared, all portable.
 
 ```bash
 # Clone the formation templates
-git clone https://github.com/agent-formation/spec.git
-cp -r spec/formation my-project
+git clone https://github.com/agent-formation/afs-spec.git
+cp -r afs-spec/schemas my-project
 cd my-project
 
 # Customize and deploy with any compliant runtime
