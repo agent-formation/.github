@@ -53,9 +53,9 @@ Agents, tools, memory, knowledge, workflows - all declared, all portable.
 | Repository | Description |
 |------------|-------------|
 | [**afs-spec**](https://github.com/agent-formation/afs-spec) | Core schemas, specs, and templates |
-| *afs-cli* | Validator, linter, and formatter tool (coming soon) |
-| *afs-vscode* | VS Code extension (coming soon) |
-| *afs-assets* | Logos, icons, badges, and brand guidelines (coming soon) |
+| [**afs-cli**](https://github.com/agent-formation/afs-cli) | Validator, linter, and formatter tool |
+| [**afs-vscode**](https://github.com/agent-formation/afs-vscode) | VS Code extension |
+| [**afs-assets**](https://github.com/agent-formation/afs-assets) | Logos, icons, badges, and brand guidelines |
 
 ---
 
