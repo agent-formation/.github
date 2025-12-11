@@ -52,10 +52,10 @@ Agents, tools, memory, knowledge, workflows - all declared, all portable.
 
 | Repository | Description |
 |------------|-------------|
-| [**spec**](https://github.com/agent-formation/spec) | Core schemas, specs, and templates |
-| *afs* | Validator, linter, and formatter tool (coming soon) |
-| *vscode* | VS Code extension (coming soon) |
-| *assets* | Logos, icons, badges, and brand guidelines (coming soon) |
+| [**afs-spec**](https://github.com/agent-formation/afs-spec) | Core schemas, specs, and templates |
+| *afs-cli* | Validator, linter, and formatter tool (coming soon) |
+| *afs-vscode* | VS Code extension (coming soon) |
+| *afs-assets* | Logos, icons, badges, and brand guidelines (coming soon) |
 
 ---
 
