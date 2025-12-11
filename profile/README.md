@@ -1,16 +1,15 @@
-# Agentic Spec
-
+# Agent Formation
 **Open standard for declarative AI agent systems.**
 
-Define your agents, tools, and multi-agent orchestration in portable YAML. Run them on any compliant runtime.
+Define your agents, tools, and multi-agent orchestration in portable AFS files. Run them on any compliant runtime.
 
 ---
 
-## Why Agentic Spec?
+## Why Agent Formation?
 
-AI agent configurations are fragmented. Every framework has its own format, locking you into a specific runtime. Agentic Spec changes that:
+AI agent configurations are fragmented. Every framework has its own format, locking you into a specific runtime. Agent Formation changes that:
 
-- **Write once** - Declarative YAML schemas for agents, MCP tools, and A2A services
+- **Write once** - Declarative schemas for agents, MCP tools, and A2A services
 - **Run anywhere** - Portable across any compliant runtime
 - **Validate consistently** - Standard tooling for linting and validation
 - **Extend safely** - Namespaced extensions for vendor-specific features
@@ -21,7 +20,7 @@ Think of it as **infrastructure-as-code for AI agents**.
 
 ## The Formation Standard
 
-A **Formation** is a complete AI agent system defined in YAML:
+A **Formation** is a complete AI agent system defined in AFS (or YAML):
 
 ```yaml
 schema: "1.0.0"
@@ -44,13 +43,15 @@ mcp:
 
 Agents, tools, memory, knowledge, secrets - all declared, all portable.
 
+> **File Extensions:** Use `.afs` (Agent Formation Standard) or `.yaml` - both are fully supported.
+
 ---
 
 ## Projects
 
 | Repository | Description |
 |------------|-------------|
-| [**formation**](https://github.com/agentic-spec/formation) | Core schemas, specs, and templates |
+| [**formation**](https://github.com/agent-formation/spec) | Core schemas, specs, and templates |
 | *validator* | Schema validation library (coming soon) |
 | *linter* | CLI linting tool (coming soon) |
 | *vscode* | VS Code extension (coming soon) |
@@ -61,8 +62,8 @@ Agents, tools, memory, knowledge, secrets - all declared, all portable.
 
 ```bash
 # Clone the formation templates
-git clone https://github.com/agentic-spec/formation.git
-cp -r formation/formation my-project
+git clone https://github.com/agent-formation/spec.git
+cp -r spec/formation my-project
 cd my-project
 
 # Customize and deploy with any compliant runtime
@@ -80,11 +81,11 @@ Building a runtime? We'd love to list it. Open an issue or PR.
 
 ## Contributing
 
-Agentic Spec is developed in the open. We welcome contributions to schemas, specs, tooling, and documentation.
+Agent Formation is developed in the open. We welcome contributions to schemas, specs, tooling, and documentation.
 
-- Read the [Contributing Guide](https://github.com/agentic-spec/formation/blob/main/CONTRIBUTING.md)
-- Review the [Governance Model](https://github.com/agentic-spec/formation/blob/main/GOVERNANCE.md)
-- Join the discussion in [Issues](https://github.com/agentic-spec/formation/issues)
+- Read the [Contributing Guide](https://github.com/agent-formation/spec/blob/main/CONTRIBUTING.md)
+- Review the [Governance Model](https://github.com/agent-formation/spec/blob/main/GOVERNANCE.md)
+- Join the discussion in [Issues](https://github.com/agent-formation/spec/issues)
 
 ---
 
